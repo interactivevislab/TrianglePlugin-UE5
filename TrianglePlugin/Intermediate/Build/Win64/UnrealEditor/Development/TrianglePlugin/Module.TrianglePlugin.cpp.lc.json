@@ -1,0 +1,18 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "g:\\tilemap\\plugins\\triangleplugin\\intermediate\\build\\win64\\unrealeditor\\development\\triangleplugin\\module.triangleplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "g:\\tilemap\\intermediate\\build\\win64\\tilemapeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "g:\\tilemap\\plugins\\triangleplugin\\intermediate\\build\\win64\\unrealeditor\\development\\triangleplugin\\definitions.triangleplugin.h",
+            "g:\\tilemap\\plugins\\triangleplugin\\source\\triangleplugin\\private\\triangleplugin.cpp",
+            "g:\\tilemap\\plugins\\triangleplugin\\source\\triangleplugin\\public\\triangleplugin.h",
+            "g:\\tilemap\\plugins\\triangleplugin\\source\\triangleplugin\\private\\triangulatefunctionlibrary.cpp",
+            "g:\\tilemap\\plugins\\triangleplugin\\source\\triangleplugin\\public\\triangulatefunctionlibrary.h",
+            "g:\\tilemap\\plugins\\triangleplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\triangleplugin\\triangulatefunctionlibrary.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

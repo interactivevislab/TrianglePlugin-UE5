@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TrianglePlugin-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\TileMap\Intermediate\Build\Win64\TileMapEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"G:\TileMap\Plugins\TrianglePlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TrianglePlugin\Module.TrianglePlugin.cpp.obj"
+"G:\TileMap\Plugins\TrianglePlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TrianglePlugin\Module.TrianglePlugin.gen.cpp.obj"
+"G:\TileMap\Plugins\TrianglePlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TrianglePlugin\Default.rc2.res"
+/OUT:"G:\TileMap\Plugins\TrianglePlugin\Intermediate\Build\Win64\UnrealEditor\DebugGame\TrianglePlugin\UnrealEditor-TrianglePlugin-Win64-DebugGame.lib"

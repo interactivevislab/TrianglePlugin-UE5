@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TrianglePlugin.cpp.obj": [
+			"TrianglePlugin.cpp.obj",
+			"TriangulateDemoComponent.cpp.obj",
+			"TriangulateFunctionLibrary.cpp.obj"
+		],
+		"Module.TrianglePlugin.gen.cpp.obj": [
+			"TrianglePlugin.init.gen.cpp.obj",
+			"TriangulateDemoComponent.gen.cpp.obj",
+			"TriangulateFunctionLibrary.gen.cpp.obj"
+		]
+	}
+}
