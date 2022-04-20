@@ -3,3 +3,5 @@ Plugin for Unreal Engine 5, for triangulating 2d meshes from their contours, sup
 
 # Quick Start
 See demo map and BP_SimpleMesh and BP_MeshWithHolesAndMultyContour
+more detailed??
+coming soon...
